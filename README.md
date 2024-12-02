@@ -38,7 +38,7 @@ Source repository: <https://github.com/lonelykkk/lonelykkk>
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img width="400" src="https://streak-stats.demolab.com?user=lonelykkk&theme=transparent&hide_border=true" />
+<!--     <img width="400" src="https://streak-stats.demolab.com?user=lonelykkk&theme=transparent&hide_border=true" /> -->
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
