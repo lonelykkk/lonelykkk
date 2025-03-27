@@ -34,6 +34,14 @@ Source repository: <https://github.com/lonelykkk/lonelykkk>
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
     <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页！" />
 </p>
+
+<!-- 总结 -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lonelykkk&show_icons=true&hide_border=true" alt="JustSong's Github Stats" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonelykkk&layout=compact&hide_border=true&langs_count=10" alt="JustSong's Top Langs" width="37%" /> 
+</p>
+
+
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
@@ -42,7 +50,8 @@ Source repository: <https://github.com/lonelykkk/lonelykkk>
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=lonelykkk&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<!--  提交表 -->
+<!--     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=lonelykkk&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" /> -->
 </p>
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
